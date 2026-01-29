@@ -42,9 +42,6 @@ You can easily tweak:
 - This style targets ChatGPT’s current UI structure (2026).
 - Minor selector updates may be required if ChatGPT changes its layout.
 
-## 📸 Screenshots
-
-_(Add screenshots here for UserStyles / GitHub preview)_
 
 ## 📄 License
 
